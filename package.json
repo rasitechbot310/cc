@@ -1,0 +1,17 @@
+{
+  "name": "test-web",
+  "version": "1.0.0",
+  "description": "Test Web Rasi Tech",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "rasitech"
+  ],
+  "author": "RasiTech",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
